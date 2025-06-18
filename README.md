@@ -20,12 +20,6 @@ Analizar los datos de clientes de TelecomX para identificar factores asociados a
 - Mapa de correlaciones
 - Modelos predictivos de Churn
 
-## 🧠 Modelos Predictivos
-
-- Regresión logística
-- Árboles de decisión
-- Random Forest
-
 ## 📈 Resultados clave
 
 - El contrato mes a mes se asocia con mayor cancelación.
